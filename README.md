@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/YashKrV/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/YashKrV/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/YashKrV/DSA/tree/master/0268-missing-number) |
 ## Recursion
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/YashKrV/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/YashKrV/DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
